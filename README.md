@@ -6,3 +6,6 @@
 
 SDNやOpenFlowについては、名前しか聞いたことなく、予備知識ゼロからのスタートです。難しそうですが、頑張りたいと思います。演習ではgitも使うようなので、gitにも慣れていきたいと思います。gitを使いこなせたら、カッコ良さそうなので。
 よろしくお願いします。
+
+レポートのリンク
+https://github.com/handai-trema/hello-trema-t-mangoe/report.pdf
