@@ -11,3 +11,4 @@ SDNやOpenFlowについては、名前しか聞いたことなく、予備知識
 [tremaのレポート課題](https://github.com/handai-trema/hello-trema-t-mangoe/blob/develop/report.pdf)  
 [Cbenchの高速化](https://github.com/handai-trema/cbench-t-mangoe/blob/develop/report.pdf)  
 [複数スイッチ対応版ラーニングスイッチ](https://github.com/handai-trema/learning-switch-t-mangoe/blob/develop/report.pdf)  
+[パッチパネルの拡張](https://github.com/handai-trema/patch-panel-t-mangoe/blob/develop/report.pdf)
